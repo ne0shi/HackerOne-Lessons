@@ -8,7 +8,7 @@ All credits to HackerOne team:
 * Youtube: https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
 * Youtube Lessons Playlist: https://www.youtube.com/watch?v=zPYfT9azdK8&list=PLxhvVyxYRviZd1oEA9nmnilY3PhVrt4nj
 
-#####Videos that are not on the playlist
+#### Videos that are not on the playlist
 
 * Source Code Review: https://www.youtube.com/watch?v=i4fd2Va3Jtg
 * Cookie Tampering Techniques: https://www.youtube.com/watch?v=rH61-9ovYd4
