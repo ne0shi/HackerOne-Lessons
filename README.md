@@ -13,6 +13,7 @@ All credits to HackerOne team:
 * Source Code Review: https://www.youtube.com/watch?v=i4fd2Va3Jtg
 * Cookie Tampering Techniques: https://www.youtube.com/watch?v=rH61-9ovYd4
 * XML External Entities: https://www.youtube.com/watch?v=8NX3Z97ckAQ
+* Mobile Hacking Crash Course: https://www.youtube.com/watch?v=hKF89TXttnw
 
 # Reports
 
