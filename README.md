@@ -15,6 +15,7 @@ All credits to HackerOne team:
 * XML External Entities: https://www.youtube.com/watch?v=8NX3Z97ckAQ
 * Mobile Hacking Crash Course: https://www.youtube.com/watch?v=hKF89TXttnw
 * Android Quickstart: https://www.youtube.com/watch?v=y0O3sCX9ftM
+* iOS Quickstart: https://www.youtube.com/watch?v=c4M8sd9lcFU
 
 # Reports
 
